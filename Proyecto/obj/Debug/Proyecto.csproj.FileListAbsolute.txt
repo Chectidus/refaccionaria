@@ -1,0 +1,17 @@
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.Form1.resources
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.Form2.resources
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\Joserra\Documents\Proyecto\Proyecto\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\Joserra\Documents\Proyecto\Proyecto\obj\Debug\Proyecto.Form3.resources
